@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(244, 245, 250);
+  margin: 0px;
+}
+
+.navigation {
+  margin: auto;
+  max-width: 1000px;
+  font-size: xx-large;
+  font-style: italic;
+  font-weight: bold;
+  background-color: darkmagenta;
+  color: white;
+  padding: 1.5rem;
+}
+
+.container {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+.foot {
+  margin: auto;
+  max-width: 1000px;
+  font-size: xx-large;
+  font-style: italic;
+  font-weight: bold;
+  background-color: darkmagenta;
+  color: white;
+  padding: 1.5rem;
+}
